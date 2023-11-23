@@ -51,7 +51,7 @@
 
   .sidebar-header-bar {
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 120px;//20
 
     .sidebar-bar-button {
       flex-grow: 1;
@@ -146,13 +146,13 @@
 }
 
 .sidebar-title {
-  font-size: 20px;
+  font-size: 120px;//20
   font-weight: bold;
   animation: slide-in ease 0.3s;
 }
 
 .sidebar-sub-title {
-  font-size: 12px;
+  font-size: 120px;//12
   font-weight: 400;
   animation: slide-in ease 0.3s;
 }
